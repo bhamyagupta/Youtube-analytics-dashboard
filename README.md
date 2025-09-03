@@ -25,7 +25,10 @@ It analyzes video performance data (views, likes, comments, publish dates) and p
 
 ## 📂 Project Structure
 youtube-dashboard/
+
 │
+
 ├── youtube_dashboard.ipynb
+
 └── README.md
 
